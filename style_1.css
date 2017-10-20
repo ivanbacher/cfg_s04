@@ -1,0 +1,74 @@
+/* Stylesheet for style_1.html */
+
+#section_1 {
+    background-color: #C6DDF0;
+
+    padding: 10px;
+}
+
+#section_1 h1 {
+    margin-bottom: 5px;
+}
+
+#section_1 p {
+    margin-top: 5px;
+}
+
+#section_2 {
+
+}
+
+#section_2 ul {
+    list-style: none;
+    padding: 0px;
+}
+
+#section_2 ul li {
+    padding-left: 10px;
+    width: 300px;
+    background-color: #996888;
+
+    margin-bottom: 10px;
+
+    border: 1px solid black;
+    border-radius: 10px;
+
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+    margin-right: 5px;
+}
+
+#section_2 ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 14pt;
+
+    display: block;
+    width: 100%;
+}
+
+#section_3 {
+    background-color: #607466;
+    
+    padding: 50px;
+
+    margin: 10px;
+}
+
+#section_4 {
+    background-color: #2A2D34;
+    color: white;
+
+    padding: 20px;
+
+    margin: 50px;
+}
+
+#section_5 {
+    background-color: #F7EBE8;
+
+    border: 1px solid black;
+    padding: 10px;
+    margin: 15px;
+}
